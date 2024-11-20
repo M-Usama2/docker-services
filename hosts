@@ -26,8 +26,9 @@
 127.0.0.1 kubernetes.docker.internal
 
 127.0.0.1 server.services.com
-127.0.0.1 dashboard.server.services.com
+127.0.0.1 minio.server.services.com
 127.0.0.1 server.services.com
+127.0.0.1 phpmyadmin.services.com
 ::1 kubernetes.docker.internal
 # End of section
 109.94.209.70      *.fitgirl-repacks.xyz           # Fake FitGirl site
