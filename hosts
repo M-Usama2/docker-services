@@ -28,6 +28,7 @@
 127.0.0.1 server.services.com
 127.0.0.1 minio.server.services.com
 127.0.0.1 server.services.com
+127.0.0.1 mongo.server.services.com
 127.0.0.1 phpmyadmin.services.com
 ::1 kubernetes.docker.internal
 # End of section
